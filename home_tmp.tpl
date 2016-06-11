@@ -331,5 +331,5 @@ function goBack() {
 <script type="text/javascript" src="js/angular-sanitize.min.js"></script>
 <script type="text/javascript" src="js/angular-resource.min.js"></script>
 <!--<script type="text/javascript" src="js/angular-ui-router.js"></script>-->
-<script type="text/javascript" src="js/membersController.js?a=12345"></script>
+<script type="text/javascript" src="js/membersController.js?"></script>
 </html>
